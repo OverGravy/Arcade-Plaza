@@ -1,0 +1,1 @@
+#this file is gona store the main view for  the front end
